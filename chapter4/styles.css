@@ -1,0 +1,11 @@
+.play{
+    border-color:aquamarine;
+    margin-left: 20 px;
+    color:brown;
+}
+.success{
+    border-color:black;
+    border-style:solid;
+    margin-left: 20 px;
+    color:blueviolet;
+}
